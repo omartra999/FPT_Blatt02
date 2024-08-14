@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Buch {
    private Kapitel ersteKapitel;
    private Kapitel[] kapitels;
@@ -39,7 +41,7 @@ public class Buch {
         Kapitel[] newKapitels = new Kapitel[this.kapitels.length + 1];
 
         //copy the old kapitels in the new array
-        for (int i = 0; i < this.kapitels.length ; i++) {
+        for (int i = 0; i <= this.kapitels.length ; i++) {
             newKapitels[i] = this.kapitels[i];
         }
         //add our new chapter in the last index of the new array
@@ -47,5 +49,18 @@ public class Buch {
 
         //now update our orginal array to be the same as the new one
         this.kapitels = newKapitels;
+    }
+
+    @Override
+    public String toString() {
+       //initial variable to save the kapitels
+        String inhalt = "";
+
+        //for each kapitel in our kapitels take the text and add it to our variable
+        for (Kapitel kapitel: this.kapitels) {
+            inhalt += kapitel.getText();
+        }
+        //return our variable after it contains all texts from all kapitels
+        return inhalt;
     }
 }
