@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22901a60-2d7e-491f-b81b-d88ee3143d75" name="Default Changelist" comment="" />
+    <list default="true" id="22901a60-2d7e-491f-b81b-d88ee3143d75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Buch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2keV5pRCMvoIGIIBrWkTbmASSP4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +30,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Uni\FPT\Ubung1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -60,22 +74,26 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="1170" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1723643893247" />
-    <state width="914" height="276" key="GridCell.Tab.0.bottom" timestamp="1723647373129">
+    <state width="914" height="276" key="GridCell.Tab.0.bottom" timestamp="1723647399201">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1723647373129" />
-    <state width="914" height="276" key="GridCell.Tab.0.center" timestamp="1723647373129">
+    <state width="914" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1723647399201" />
+    <state width="914" height="276" key="GridCell.Tab.0.center" timestamp="1723647399201">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="276" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1723647373129" />
-    <state width="914" height="276" key="GridCell.Tab.0.left" timestamp="1723647373129">
+    <state width="914" height="276" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1723647399201" />
+    <state width="914" height="276" key="GridCell.Tab.0.left" timestamp="1723647399200">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="276" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1723647373129" />
-    <state width="914" height="276" key="GridCell.Tab.0.right" timestamp="1723647373129">
+    <state width="914" height="276" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1723647399200" />
+    <state width="914" height="276" key="GridCell.Tab.0.right" timestamp="1723647399201">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="276" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1723647373129" />
+    <state width="914" height="276" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1723647399201" />
+    <state x="1016" y="224" key="Vcs.Push.Dialog.v2" timestamp="1723651454980">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1016" y="224" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1723651454980" />
     <state x="1103" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1723645643496">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
